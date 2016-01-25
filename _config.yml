@@ -1,0 +1,28 @@
+name: The Donna Matrix
+favicon: null
+layout_spectrum: 0.809388532768935
+typography_spectrum: 0.12987366830930114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29549408378079534
+  lightness: 0.46012695133686066
+  saturation: 0.7368418867699802
+  rhythmicContrast: 0.25330673111602664
+purpose: []
